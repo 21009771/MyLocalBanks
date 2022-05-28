@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="B1">DBS</string>
+    <string name="B2">OCBC</string>
+    <string name="B3">UOB</string>
+    <string name="URL1">https://www.dbs.com.sg</string>
+    <string name="URL2">https://www.ocbc.com</string>
+    <string name="URL3">https://www.uob.com.sg</string>
+
+</resources>
